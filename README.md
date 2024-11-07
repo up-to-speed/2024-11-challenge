@@ -16,6 +16,6 @@ git clone git@github.com:up-to-speed/2024-11-challenge.git
 
 Then install UpToSpeed extension for VSCode, click ⏩ and Open Tours to get an overview of the codebase. Follow along and find a way to add yourself to the list of winners. You have no tokens and the owner will not help you.
 
-There is an easy and hard way to exploit.
+There is an easier and harder way to exploit. Each with separate prize.
 
 Submit your solution to [hi@up-to-speed.ai](mailto:hi@up-to-speed.ai)
